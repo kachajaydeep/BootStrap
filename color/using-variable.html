@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Using-Variable</title>
+     <link rel="stylesheet" href="../bootstrap-5.0.2-dist/css/bootstrap.min.css">
+     <style>
+          .container-fluid{
+               font: 1em var(--bs-font-monospace);
+          }
+          .text-center{
+               background-color: var(--bs-red);
+          }
+          @media (max-width:575.98px){
+               .text-center{
+                    display: none;
+               }
+          }
+     </style>
+</head>
+<body>
+     <div class="container-fluid">
+          <h1 class="text-center p-3">Font-Family</h1>
+          <button class="btn-success">click!</button>
+     </div>
+</body>
+</html>
