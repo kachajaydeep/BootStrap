@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Vertical-Alignment</title>
+     <link rel="stylesheet" href="../bootstrap-5.0.2-dist/css/bootstrap.min.css">
+     <style>
+          .container{
+               min-height: 100vh;
+          }
+     </style>
+</head>
+<body>
+     <div class="container d-flex justify-content-between flex-column">
+          <div class="row">
+               <div class="col p-3 bg-dark text-white">one of three columns</div>
+               <div class="col p-3 bg-danger">One Of Three Columns</div>
+               <div class="col p-3 bg-success">One Of Three Columns</div>
+          </div>
+          <div class="row">
+               <div class="col p-3 bg-warning">One Of Three Columns</div>
+               <div class="col p-3 bg-success">One Of Three Columns</div>
+               <div class="col p-3 bg-primary text-white">One Of Three Columns</div>
+          </div>
+          <div class="row">
+               <div class="col p-3 bg-danger">One Of Three Columns</div>
+               <div class="col p-3 bg-primary">One Of Three Columns</div>
+               <div class="col p-3 bg-warning">One Of Three Columns</div>
+          </div>
+     </div>
+</body>
+</html>
