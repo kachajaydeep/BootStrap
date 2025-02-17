@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Data_bs-toggle</title>
+     <link rel="stylesheet" href="../bootstrap-5.0.2-dist/css/bootstrap.min.css">
+</head>
+<body>
+     <p>
+          <b>Please Please note that in anchor tag not apply <mark>data-bs-target</mark> only applying the <mark>href</mark></b>
+     </p>
+     <p class="d-inline-flex gap-1">
+          <a href="#collapseExample" class="btn btn-primary" data-bs-toggle="collapse">
+               Link with href
+          </a>
+          <button class="btn btn-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseExample">Collapse</button>
+     </p>
+
+     <div class="collapse" id="collapseExample">
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit, amet.</p>
+     </div>
+
+     <script src="../bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
