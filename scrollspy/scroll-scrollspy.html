@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Scroll-Scrollspy</title>
+     <link rel="stylesheet" href="../bootstrap-5.0.2-dist/css/bootstrap.min.css">
+     <style>
+          .box {
+               width: 100%;
+               height: 500px;
+               background-color: lightblue;
+               overflow-x: hidden;
+               overflow-y: scroll;
+          }
+          ::-webkit-scrollbar{
+               display: none;
+          }
+     </style>
+</head>
+
+<body>
+     <div class="box">
+          <div class="row">
+               <div class="col-4">
+                    <div class="list-group sticky-top" id="ExampleWithList">
+                         <a href="#one" class="list-group-item list-group-item-action">one</a>
+                         <a href="#two" class="list-group-item list-group-item-action">two</a>
+                         <a href="#three" class="list-group-item list-group-item-action">three</a>
+                         <a href="#four" class="list-group-item list-group-item-action">four</a>
+                         <a href="#five" class="list-group-item list-group-item-action">five</a>
+                    </div>
+               </div>
+               <div class="col-8">
+                    <div data-bs-spy="scroll" data-bs-target="#ExampleWithList" data-bs-offset="0">
+                         <div class="text-white p-5 m-5 bg-primary">
+                              <h2 id="one">This is First Header</h2>
+                              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam vel amet sint
+                                   inventore dolores, pariatur at vero. Quam, vero sequi.</p>
+                         </div>
+                         <div class="text-white p-5 m-5 bg-success">
+                              <h2 id="two">This is Second Header</h2>
+                              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam vel amet sint
+                                   inventore dolores, pariatur at vero. Quam, vero sequi.</p>
+                         </div>
+                         <div class="text-white p-5 m-5 bg-danger">
+                              <h2 id="three">This is Third Header</h2>
+                              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam vel amet sint
+                                   inventore dolores, pariatur at vero. Quam, vero sequi.</p>
+                         </div>
+
+                         <div class="bg-info p-5 m-5">
+                              <h2 id="four">This is Forth Header</h2>
+                              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam vel amet sint
+                                   inventore dolores, pariatur at vero. Quam, vero sequi.</p>
+                         </div>
+
+                         <div class="text-white p-5 m-5 bg-dark">
+                              <h2 id="five">This is fifth Header</h2>
+                              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam vel amet sint
+                                   inventore dolores, pariatur at vero. Quam, vero sequi.</p>
+                         </div>
+                    </div>
+               </div>
+          </div>
+     </div>
+
+</body>
+
+</html>
