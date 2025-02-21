@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Offcanvas_Example1</title>
+     <link rel="stylesheet" href="../bootstrap-5.0.2-dist/css/bootstrap.min.css">
+</head>
+
+<body>
+     <a href="#offcanvas" class="btn btn-primary" data-bs-toggle="offcanvas">
+          Link with href
+     </a>
+     <button class="btn bg-dark text-white" data-bs-toggle="offcanvas" data-bs-target="#offcanvas"> Button with
+          data-bs-target</button>
+     <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvas">
+          <div class="offcanvas-header">
+               <h5 class="offcanvas-title" id="offcanvas-Label">offcanvas</h5>
+               <button class="btn-close text-reset" data-bs-dismiss="offcanvas"></button>
+          </div>
+          <div class="offcanvas-body">
+               Content for the offcanvas goes here. You can place just about any Bootstrap component or custom elements
+               here.
+          </div>
+     </div>
+     <script src="../bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
