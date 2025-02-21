@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Basic Scrollspy</title>
+     <link rel="stylesheet" href="../bootstrap-5.0.2-dist/css/bootstrap.min.css">
+</head>
+<body>
+     <div class="container" id="ExampleWithList">
+          <div class="list-group">
+               <a href="#one" id="one" class="list-group-item list-group-item-action">One</a>
+               <a href="#two" class="list-group-item list-group-action">Two</a>
+               <a href="#three" class="list-group-item list-group-action">Three</a>
+          </div>
+
+          <div data-bs-spy="scroll" data-bs-target="#ExampleWithList">
+               <div class="p-5 m-5 bg-primary">
+                    <h2 id="one">This is First Header.</h2>
+               </div>
+               <div class="p-5 m-5 bg-primary">
+                    <h2 id="two">This is Second Header</h2>
+               </div>
+
+               <div class="p-5 m-5 bg-primary">
+                    <h2 id="three">This is Third Header</h2>
+               </div>
+
+          </div>
+     </div>
+</body>
+</html>
