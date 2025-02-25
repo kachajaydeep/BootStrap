@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Accrodion</title>
+     <link rel="stylesheet" href="../bootstrap-5.0.2-dist/css/bootstrap.min.css">
+</head>
+
+<body>
+     <div class="accordion" id="accordionExample">
+          <div class="accordion-item">
+               <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
+                         Accordion Item #1
+                    </button>
+               </h2>
+               <div class="accordion-body" id="collapseOne" data-bs-parent="#accordionExample">
+                    <strong>
+                         This is the first item's accordion body.
+                    </strong>
+                    It is shown by default, until the collapse plugin adds the appropriate classes that we use to
+                    style each element. These classes control the overall appearance, as well as the showing and
+                    hiding via CSS transitions. You can modify any of this with custom CSS or overriding our
+                    default variables. It's also worth noting that just about any HTML can go within the
+                    <code>.accordion-body</code>, though the transition does limit overflow.
+               </div>
+          </div>
+
+          <div class="accordion-item">
+               <h2 class="accordion-header">
+                    <button class="accordion-button" data-bs-target="#accordionTwo" data-bs-toggle="collapse">
+                         Accordion Item #2
+                    </button>
+               </h2>
+               <div class="accordion-body" data-bs-parent="#accordion" id="accordionTwo">
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Beatae quod itaque molestias non,
+                         corrupti officia numquam pariatur eligendi odit iure, suscipit commodi. At est aspernatur,
+                         fugit eius dignissimos hic sit? Quam incidunt amet commodi, dolorum reprehenderit corrupti
+                         rerum est sunt dolor, iusto debitis quos ratione at placeat quaerat tenetur inventore.
+                    </p>
+               </div>
+          </div>
+
+          <div class="accordion-item">
+               <h2 class="accordion-header">
+                    <button type="button" class="accordion-button" data-bs-toggle="collapse" data-bs-target="#collapseThree">
+                         Accordion Item #3
+                    </button>
+               </h2>
+               <div class="accordion-body" id="collapseThree" data-bs-parent="#accordion">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque dignissimos
+                    suscipit, accusantium sapiente amet omnis fugiat quibusdam facere nam voluptas asperiores sequi
+                    minus consequuntur voluptatibus debitis reiciendis modi fuga ea libero excepturi cupiditate! Ea at,
+                    quia molestias quod incidunt deleniti rerum suscipit deserunt alias! Facere vel eius dicta non
+                    dolore!
+               </div>
+          </div>
+     </div>
+
+     <script src="../bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
