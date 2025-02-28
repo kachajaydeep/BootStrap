@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>vertical-alignment</title>
+     <link rel="stylesheet" href="../../bootstrap-5.0.2-dist/css/bootstrap.min.css">
+</head>
+
+<body>
+     <table class="table">
+          <thead>
+               <tr>
+                    <th scope="col">Heading 1</th>
+                    <th scope="col">Heading 2</th>
+                    <th scope="col">Heading 3</th>
+                    <th scope="col">Heading 4</th>
+               </tr>
+          </thead>
+
+          <tbody>
+               <tr style="height: 200px;" class="align-middle">
+                    <td>This cell inherits vertical-align: middle; from the table</td>
+                    <td>This cell inherits vertical-align: middle; from the table</td>
+                    <td>This cell inherits vertical-align: middle; from the table</td>
+                    <td class="align-top">This here is some placeholder text, intended to take up quite a bit of vertical space, to demonstrate how the vertical alignment works in the preceding cells.</td>
+               </tr>
+               <tr>
+                    <td>Jacob</td>
+                    <td>Thornton</td>
+                    <td>@fat</td>
+               </tr>
+               <tr>
+                    <td colspan="2">Larry the Bird</td>
+                    <td>@twitter</td>
+               </tr>
+          </tbody>
+     </table>
+</body>
+
+</html>
