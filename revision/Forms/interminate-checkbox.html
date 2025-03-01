@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Interminate-checkbox</title>
+     <link rel="stylesheet" href="../../bootstrap-5.0.2-dist/css/bootstrap.min.css">
+</head>
+<body>
+     <div class="form-check">
+          <input type="checkbox" class="form-check-input" value="" id="interminate">
+          <label for="interminate" class="form-check-label">Interminate Checkbox Udsing JavaScript</label>
+     </div>
+
+     <script>
+          const inputs = document.getElementsByTagName("input[checkbox]");
+          for(let i = 0 ; inputs.length; i++){
+               inputs[i].indeterminate =true;
+          }
+     </script>
+</body>
+</html>
