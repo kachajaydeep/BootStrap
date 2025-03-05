@@ -10,7 +10,7 @@
      <form class="row gy-2 gx-3 align-items-center">
           <div class="col-auto">
                <label for="autoSizingInput" class="visually-hidden">Name</label>
-               <input type="text" placeholder="Deep Poradiya" id="autoSizingInput" class="form-control">
+               <input type="text" placeholder="Joe Doe" id="autoSizingInput" class="form-control">
           </div>
           <div class="col-auto">
                <label for="autoSizingInputGroup" class="visually-hidden">Username</label>
@@ -18,6 +18,28 @@
                     <div class="input-group-text">@</div>
                     <input type="text" placeholder="UserName" id="autoSizingInputGroup" class="form-control">
                </div>
+          </div>
+
+          <div class="col-auto">
+               <label for="autoSizingInputGroup" class="visually-hidden">Preference</label>
+               <select id="specificSizeSelect" class="form-select">
+                    <option selected>Choose..</option>
+                    <option value="1">One</option>
+                    <option value="2">Two</option>
+                    <option value="3">Three</option>
+               </select>
+          </div>
+
+          <div class="col-auto">
+               <div class="form-check">
+                    <input type="checkbox" class="form-check-input" id="autoSizingCheck2">
+                    <label for="autoSizingCheck2" class="form-check-label">
+                         Remember Me!
+                    </label>
+               </div>
+          </div>
+          <div class="col-auto">
+               <button type="submit" class="btn btn-primary">Submit</button>
           </div>
      </form>
 </body>
