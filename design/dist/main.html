@@ -6,11 +6,31 @@
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <title>Design of page</title>
      <link rel="stylesheet" href="/main.58a7e6fb.css">
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+     <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+     <style>.start-30 {
+  left: 20%;
+}
+
+.gap-6 {
+  gap: 3.5rem;
+  height: 500px;
+}
+
+.occation {
+  font-size: 60px;
+}
+
+.card {
+  color: #c8fec7;
+}
+</style>
 </head>
 
 <body>
-     <div class="container  g-0">
-          <nav class="navbar navbar-expand-lg text-light mt-3 ">
+     <div class="container">
+          <nav class="navbar navbar-expand-md text-light mt-3 ">
                <div class="container-fluid">
                     <a class="navbar-brand fw-bold text-light" href="#">
                          <img src="/Icon.238e7506.png" alt="">
@@ -42,58 +62,84 @@
           </nav>
      </div>
 
-     <div class="container row mx-auto">
-          <div class="right col-5 d-flex flex-column gap-4">
-               <div class="up text-light">
-                    <h1 class="display-1 fw-bold">PRODUCT</h1>
-                    <h1 class="display-1 fw-bold">DESIGNER</h1>
+     <div class="container mx-auto ps-3 pe-5">
+          <div class="row">
+               <div class="right col-lg-6 d-flex flex-column gap-6 col-12">
+                    <div class="up text-light text-center text-lg-start">
+                         <h1 class="display-1 occation fw-bolder">PRODUCT</h1>
+                         <h1 class="display-1 occation fw-bolder">DESIGNER</h1>
+                         <div class="down text-gradient-x">
+                              <h6 class="fw-bold display-5">CRISTIAN MUÑOZ</h6>
+                         </div>
+                    </div>
+
+                    <div class="social-media row gap-1 m-0">
+                         <div class="col instagram">
+                              <img src="/Instagram.0284c627.svg" width="40px" alt="Instagram">
+                         </div>
+                         <div class="col figma">
+                              <img src="/Figma.5d77a384.svg" width="40px" alt="Figma">
+                         </div>
+                         <div class="col linkdin">
+                              <img src="/LinkedIn.87719de7.svg" width="40px" alt="LinkedIn">
+                         </div>
+
+                         <div class="col twitter">
+                              <img src="/Twitter.361ad1ad.svg" width="40px" alt="Twitter">
+                         </div>
+                         <div class="col telegram">
+                              <img src="/Telegram.426da378.svg" width="40px" alt="Telegram">
+                         </div>
+                         <div class="col medium">
+                              <img src="/Medium.76173d6e.svg" width="40px" alt="Medium">
+                         </div>
+                    </div>
+
+                    <button class="btn text-bg-dark d-flex align-items-center justify-content-center gap-2 w-100">
+                         <span>Download Curriculum Vitae</span>
+                         <img src="/down-arrow-svgrepo-com.7058b732.svg" alt="" width="20px" height="20px">
+                    </button>
                </div>
 
-               <div class="down text-gradient-x">
-                    <h6 class="fw-bold display-5">CRISTIAN MUÑOZ</h6>
+               <div class="middel col-2 d-none d-lg-block d-xl-block d-xxl-block position-relative">
+                    <img src="/Portal.272eb300.svg" class="position-absolute start-30" alt="Portal" width="70px" height="70px">
                </div>
 
-               <div class="social-media row gap-2 m-0">
-                    <div class="col instagram">
-                         <img src="/Instagram.0284c627.svg" width="40px" alt="Instagram">
-                    </div>
-                    <div class="col figma">
-                         <img src="/Figma.5d77a384.svg" width="40px" alt="Figma">
-                    </div>
-                    <div class="col linkdin">
-                         <img src="/LinkedIn.87719de7.svg" width="40px" alt="LinkedIn">
-                    </div>
-
-                    <div class="col twitter">
-                         <img src="/Twitter.361ad1ad.svg" width="40px" alt="Twitter">
-                    </div>
-                    <div class="col telegram">
-                         <img src="/Telegram.426da378.svg" width="40px" alt="Telegram">
-                    </div>
-                    <div class="col medium">
-                         <img src="/Medium.76173d6e.svg" width="40px" alt="Medium">
-                    </div>
+               <div class="left d-none d-lg-block d-xl-block d-xxl-block col-4 position-relative">
+                    <img src="/colorful-vintage-collage-design%201.7896c020.png" class="position-absolute end-0" alt="colorful-vintage-collage-design" width="350px" height="500px">
                </div>
-
-               <button class="btn text-bg-dark d-flex align-items-center gap-2 justify-content-center">
-                    <span>Download Curriculum Vitae</span>
-                    <img src="/down-arrow-svgrepo-com.7058b732.svg" alt="" width="20px" height="20px">
-               </button>
-
-          </div>
-          <div class="middel col-2 position-relative">
-               <img src="/Portal.272eb300.svg" class="position-absolute top-50 start-50 translate-middle" alt="Portal" width="100px" height="100px">
-          </div>
-          <div class="left col-5 position-relative">
-               <img src="/colorful-vintage-collage-design%201.7896c020.png" class="position-absolute end-0" alt="colorful-vintage-collage-design" width="400px" height="500px">
           </div>
 
-          <div class="c">
-               <h1 class="display-1">90%</h1>
-               <p>Job Success <br>
-                    Score on Upwork</p>
+          <div class="card border-1 mt-5 p-4 rounded-5 border-light bg-dark">
+               <div class="card-body d-flex flex-column flex-sm-row align-items-center justify-content-between text-center">
+                    <div class="left">
+                         <h1 class="display-1 fw-bolder">90%</h1>
+                         <p class="fw-bolder fs-5">Job Success <br>Score on Upwork</p>
+                    </div>
+
+                    <picture>
+                         <source src="/Dawn.e88e500b.svg" media="(max-width:768px)" width="20px" height="50pxs">
+                         <img src="/Dawn.e88e500b.svg" width="50px" height="50px">
+                    </picture>
+
+                    <div class="left">
+                         <h1 class="display-1 fw-bolder">>25.000</h1>
+                         <p class="fw-bolder fs-5">Duplicates on Figma<br>Community</p>
+                    </div>
+
+                    <div class="center">
+                         <img src="/Dawn.e88e500b.svg" alt="" width="50px" height="50px">
+                    </div>
+
+                    <div class="left">
+                         <h1 class="display-1 fw-bolder">>2k</h1>
+                         <p class="fw-bolder fs-5">In Finished <br>Works</p>
+                    </div>
+
+               </div>
           </div>
      </div>
+     
 
      <script src="/main.18dbc454.js" defer=""></script>
 </body>

@@ -1,3 +1,8 @@
+@import "https://fonts.googleapis.com/css2?family=Anton&display=swap";
+:root {
+  --bs-body-font-family: "Anton", sans-serif;
+}
+
 .down {
   color: #0000;
   background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
@@ -4106,7 +4111,7 @@ textarea.form-control-lg {
   --bs-navbar-toggler-padding-y: .25rem;
   --bs-navbar-toggler-padding-x: .75rem;
   --bs-navbar-toggler-font-size: 1.25rem;
-  --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%2833, 37, 41, 0.75%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  --bs-navbar-toggler-icon-bg: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='%23fff' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
   --bs-navbar-toggler-border-color: rgba(var(--bs-emphasis-color-rgb), .15);
   --bs-navbar-toggler-border-radius: var(--bs-border-radius);
   --bs-navbar-toggler-focus-width: .25rem;

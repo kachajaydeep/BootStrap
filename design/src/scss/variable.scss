@@ -4,17 +4,25 @@ $navbar-light-active-color:#fff;
 $navbar-light-hover-color:#fff;
 $navbar-light-color:#fff;
 $nav-link-color:#fff;
+$navbar-light-icon-color:#fff;
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
 @import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+
 
 @mixin text-gradient-x($start-color:#FA709A, $end-color: #FEE140, $start-percent: 0%, $end-percent: 100%) { 
      background-image: linear-gradient(to right, $start-color $start-percent, $end-color $end-percent);
      background-clip: text;
      -webkit-background-clip: text;
      color: transparent;
-     display: inline-block; // Needed for the gradient to work properly
+     display: inline-block; 
    }
 
+:root{
+     --bs-body-font-family:"Anton", sans-serif;
+}
 .down{
      @include text-gradient-x(#FA709A,#FEE140);
 }
