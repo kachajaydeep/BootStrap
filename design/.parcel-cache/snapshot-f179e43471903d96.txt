@@ -15,7 +15,7 @@
 94E:\BootStrap\design\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib133861582204144888 1
 55E:\BootStrap\design\node_modules\@parcel\optimizer-svgo133861582082434777 1
 68E:\BootStrap\design\node_modules\bootstrap\js\dist\util\index.js.map133861582189770904 0
-24E:\BootStrap\design\dist133861591471086733 1
+24E:\BootStrap\design\dist133861599173999834 1
 64E:\BootStrap\design\node_modules\@parcel\workers\src\cpuCount.js133861582142743743 0
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\LA.js133861582193364449 0
 77E:\BootStrap\design\node_modules\@parcel\watcher\src\macos\FSEventsBackend.cc133861582138368504 0
@@ -69,7 +69,7 @@
 65E:\BootStrap\design\node_modules\domutils\lib\esm\querying.js.map133861582194770557 0
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\ZW.js133861582193833112 0
 56E:\BootStrap\design\node_modules\weak-lru-cache\index.js133861582206957181 0
-33E:\BootStrap\design\src\main.html133861591372565857 0
+33E:\BootStrap\design\src\main.html133861599008403092 0
 94E:\BootStrap\design\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js133861582126806805 0
 28E:\BootStrap\design\src\scss133861582207113426 1
 78E:\BootStrap\design\node_modules\posthtml\node_modules\domutils\lib\index.d.ts133861582204769834 0
@@ -484,7 +484,7 @@
 60E:\BootStrap\design\node_modules\source-map-js\source-map.js133861582206332236 0
 43E:\BootStrap\design\node_modules\micromatch133861582203519929 1
 68E:\BootStrap\design\node_modules\@parcel\watcher-win32-x64\README.md133861582135868320 0
-44E:\BootStrap\design\dist\Medium.76173d6e.svg133861591470408310 0
+44E:\BootStrap\design\dist\Medium.76173d6e.svg133861599173939869 0
 76E:\BootStrap\design\node_modules\@parcel\workers\test\integration\workerfarm133861582143680331 1
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\LS.js133861582193364449 0
 41E:\BootStrap\design\node_modules\msgpackr133861582203988645 1
@@ -1242,7 +1242,7 @@
 89E:\BootStrap\design\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest.c133861582202738763 0
 108E:\BootStrap\design\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\package.json133861582082591215 0
 70E:\BootStrap\design\node_modules\postcss-value-parser\lib\stringify.js133861582204457370 0
-46E:\BootStrap\design\dist\Telegram.426da378.svg133861591470408310 0
+46E:\BootStrap\design\dist\Telegram.426da378.svg133861599173939869 0
 68E:\BootStrap\design\node_modules\@swc\helpers\_\_non_iterable_spread133861582187271089 1
 65E:\BootStrap\design\node_modules\postcss-value-parser\lib\walk.js133861582204457370 0
 82E:\BootStrap\design\node_modules\@swc\helpers\_\_class_static_private_field_update133861582186958798 1
@@ -1840,7 +1840,7 @@
 68E:\BootStrap\design\node_modules\msgpackr\dist\index-no-eval.cjs.map133861582203676170 0
 57E:\BootStrap\design\node_modules\@parcel\transformer-json133861582126650393 1
 55E:\BootStrap\design\node_modules\msgpackr\dist\node.cjs133861582203832403 0
-46E:\BootStrap\design\dist\LinkedIn.87719de7.svg133861591470408310 0
+46E:\BootStrap\design\dist\LinkedIn.87719de7.svg133861599173939869 0
 46E:\BootStrap\design\node_modules\clone\LICENSE133861582193989357 0
 59E:\BootStrap\design\node_modules\msgpackr\dist\node.cjs.map133861582203832403 0
 58E:\BootStrap\design\node_modules\@parcel\core\lib\utils.js133861582079310553 0
@@ -2126,7 +2126,7 @@
 81E:\BootStrap\design\node_modules\caniuse-lite\data\features\element-from-point.js133861582191489531 0
 62E:\BootStrap\design\node_modules\entities\lib\esm\package.json133861582198521042 0
 62E:\BootStrap\design\node_modules\js-yaml\lib\schema\default.js133861582201176342 0
-45E:\BootStrap\design\dist\Frame_7.17294910.png133861591470508241 0
+45E:\BootStrap\design\dist\Frame_7.17294910.png133861599172616960 0
 63E:\BootStrap\design\node_modules\js-yaml\lib\schema\failsafe.js133861582201176342 0
 59E:\BootStrap\design\node_modules\js-yaml\lib\schema\json.js133861582201176342 0
 82E:\BootStrap\design\node_modules\htmlnano\lib\modules\normalizeAttributeValues.mjs133861582200395006 0
@@ -2451,7 +2451,7 @@
 78E:\BootStrap\design\node_modules\caniuse-lite\data\features\wasm-tail-calls.js133861582192583207 0
 61E:\BootStrap\design\node_modules\entities\lib\esm\encode.d.ts133861582195707904 0
 73E:\BootStrap\design\node_modules\caniuse-lite\data\features\array-find.js133861582190552098 0
-42E:\BootStrap\design\dist\Icon.238e7506.png133861591470468266 0
+42E:\BootStrap\design\dist\Icon.238e7506.png133861599172517004 0
 65E:\BootStrap\design\node_modules\entities\lib\esm\encode.d.ts.map133861582195707904 0
 75E:\BootStrap\design\node_modules\@popperjs\core\lib\dom-utils\instanceOf.js133861582155711593 0
 78E:\BootStrap\design\node_modules\@swc\helpers\_\_class_call_check\package.json133861582186802562 0
@@ -4456,7 +4456,7 @@
 87E:\BootStrap\design\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133861582084310008 0
 87E:\BootStrap\design\node_modules\@parcel\runtime-browser-hmr\lib\loaders\hmr-runtime.js133861582084153404 0
 65E:\BootStrap\design\node_modules\@parcel\resolver-default\LICENSE133861582084153404 0
-44E:\BootStrap\design\dist\Portal.272eb300.svg133861591470398334 0
+44E:\BootStrap\design\dist\Portal.272eb300.svg133861599173939869 0
 61E:\BootStrap\design\node_modules\@parcel\resolver-default\src133861582084153404 1
 80E:\BootStrap\design\node_modules\@parcel\resolver-default\lib\DefaultResolver.js133861582084153404 0
 60E:\BootStrap\design\node_modules\@parcel\reporter-tracer\src133861582084153404 1
@@ -4882,7 +4882,7 @@
 48E:\BootStrap\design\node_modules\.bin\semver.ps1133861582076185583 0
 60E:\BootStrap\design\node_modules\.bin\update-browserslist-db133861582076185583 0
 64E:\BootStrap\design\node_modules\.bin\update-browserslist-db.cmd133861582076185583 0
-71E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png133861591470648157 0
+71E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png133861599172766854 0
 79E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.10392.r133861582074779109 0
 80E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.11188.1l133861582074935342 0
 80E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.11572.5u133861582074935342 0
@@ -4891,27 +4891,27 @@
 79E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.3552.30133861582075247815 0
 79E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.4144.1z133861582075247815 0
 79E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.8028.59133861582075247815 0
-42E:\BootStrap\design\dist\Dawn.e88e500b.svg133861591470408310 0
-60E:\BootStrap\design\dist\down-arrow-svgrepo-com.7058b732.svg133861591470408310 0
-43E:\BootStrap\design\dist\Figma.5d77a384.svg133861591470408310 0
+42E:\BootStrap\design\dist\Dawn.e88e500b.svg133861599173949890 0
+60E:\BootStrap\design\dist\down-arrow-svgrepo-com.7058b732.svg133861599173939869 0
+43E:\BootStrap\design\dist\Figma.5d77a384.svg133861599173939869 0
 43E:\BootStrap\design\dist\Figma.7f02922a.png133861582074779109 0
 43E:\BootStrap\design\dist\index.58a7e6fb.css133861582075404058 0
 47E:\BootStrap\design\dist\index.58a7e6fb.css.map133861582075404058 0
 35E:\BootStrap\design\dist\index.html133861582075404058 0
-47E:\BootStrap\design\dist\Instagram.0284c627.svg133861591470408310 0
+47E:\BootStrap\design\dist\Instagram.0284c627.svg133861599173939869 0
 47E:\BootStrap\design\dist\instagram.e5f31372.png133861582075404058 0
-41E:\BootStrap\design\dist\main.18dbc454.js133861591470418292 0
-45E:\BootStrap\design\dist\main.18dbc454.js.map133861591470588205 0
+41E:\BootStrap\design\dist\main.18dbc454.js133861599173146635 0
+45E:\BootStrap\design\dist\main.18dbc454.js.map133861599173476445 0
 54E:\BootStrap\design\dist\main.18dbc454.js.map.12836.3h133861582075560281 0
 52E:\BootStrap\design\dist\main.18dbc454.js.map.2832.t133861582075560281 0
 53E:\BootStrap\design\dist\main.18dbc454.js.map.3552.32133861582075560281 0
 53E:\BootStrap\design\dist\main.18dbc454.js.map.4236.1e133861582075716524 0
-42E:\BootStrap\design\dist\main.58a7e6fb.css133861591471036762 0
-46E:\BootStrap\design\dist\main.58a7e6fb.css.map133861591471076759 0
+42E:\BootStrap\design\dist\main.58a7e6fb.css133861599173146635 0
+46E:\BootStrap\design\dist\main.58a7e6fb.css.map133861599173746286 0
 55E:\BootStrap\design\dist\main.58a7e6fb.css.map.12836.3g133861582075872744 0
 54E:\BootStrap\design\dist\main.58a7e6fb.css.map.4644.2i133861582075872744 0
 54E:\BootStrap\design\dist\main.58a7e6fb.css.map.8028.5d133861582075872744 0
 41E:\BootStrap\design\dist\main.8d811852.js133861582075872744 0
 45E:\BootStrap\design\dist\main.8d811852.js.map133861582075872744 0
-34E:\BootStrap\design\dist\main.html133861591470478293 0
-45E:\BootStrap\design\dist\Twitter.361ad1ad.svg133861591470408310 0
+34E:\BootStrap\design\dist\main.html133861599173949890 0
+45E:\BootStrap\design\dist\Twitter.361ad1ad.svg133861599173939869 0
