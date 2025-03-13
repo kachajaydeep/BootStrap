@@ -1,4 +1,4 @@
-4932
+4945
 66E:\BootStrap\design\node_modules\weak-lru-cache\tests\benchmark.js133861582206957181 0
 62E:\BootStrap\design\node_modules\regenerator-runtime\README.md133861582205238559 0
 32E:\BootStrap\design\package.json133861582206957181 0
@@ -12,10 +12,15 @@
 74E:\BootStrap\design\node_modules\@parcel\transformer-posthtml\package.json133861582126806805 0
 47E:\BootStrap\design\node_modules\posthtml\types133861582205082321 1
 37E:\BootStrap\design\package-lock.json133861582206957181 0
+53E:\BootStrap\design\node_modules\posthtml-render\dist133861582204457370 1
+74E:\BootStrap\design\node_modules\@swc\helpers\cjs\_array_like_to_array.cjs133861582187427317 0
+71E:\BootStrap\design\node_modules\msgpackr\dist\index-no-eval.min.js.map133861582203676170 0
+65E:\BootStrap\design\node_modules\semver\internal\parse-options.js133861582206175806 0
+39E:\BootStrap\design\src\assets\baby.png133863420979182309 0
 94E:\BootStrap\design\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\lib133861582204144888 1
 55E:\BootStrap\design\node_modules\@parcel\optimizer-svgo133861582082434777 1
 68E:\BootStrap\design\node_modules\bootstrap\js\dist\util\index.js.map133861582189770904 0
-24E:\BootStrap\design\dist133863229426045744 1
+24E:\BootStrap\design\dist133863456612661463 1
 64E:\BootStrap\design\node_modules\@parcel\workers\src\cpuCount.js133861582142743743 0
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\LA.js133861582193364449 0
 77E:\BootStrap\design\node_modules\@parcel\watcher\src\macos\FSEventsBackend.cc133861582138368504 0
@@ -56,7 +61,7 @@
 66E:\BootStrap\design\node_modules\@parcel\core\src\public\Target.js133861582079935513 0
 67E:\BootStrap\design\node_modules\type-fest\source\partial-deep.d.ts133861582206644657 0
 55E:\BootStrap\design\node_modules\picomatch\lib\utils.js133861582204457370 0
-30E:\BootStrap\design\src\assets133861632390311844 1
+30E:\BootStrap\design\src\assets133863425859579880 1
 82E:\BootStrap\design\node_modules\posthtml\node_modules\domutils\lib\stringify.d.ts133861582204769834 0
 81E:\BootStrap\design\node_modules\@swc\helpers\esm\_is_native_reflect_construct.js133861582188052288 0
 69E:\BootStrap\design\node_modules\htmlnano\lib\modules\mergeStyles.cjs133861582200395006 0
@@ -72,14 +77,11 @@
 65E:\BootStrap\design\node_modules\domutils\lib\esm\querying.js.map133861582194770557 0
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\ZW.js133861582193833112 0
 56E:\BootStrap\design\node_modules\weak-lru-cache\index.js133861582206957181 0
-33E:\BootStrap\design\src\main.html133863229173707383 0
+33E:\BootStrap\design\src\main.html133863456470653011 0
 94E:\BootStrap\design\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers\helpers.js133861582126806805 0
 28E:\BootStrap\design\src\scss133861582207113426 1
 78E:\BootStrap\design\node_modules\posthtml\node_modules\domutils\lib\index.d.ts133861582204769834 0
 62E:\BootStrap\design\node_modules\msgpackr-extract\node_modules133861582203519929 1
-58E:\BootStrap\design\node_modules\bootstrap\scss\_type.scss133861582190083384 0
-47E:\BootStrap\design\node_modules\dom-serializer133861582194457904 1
-79E:\BootStrap\design\node_modules\node-gyp-build-optional-packages\build-test.js133861582204144888 0
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\MA.js133861582193364449 0
 78E:\BootStrap\design\node_modules\@swc\helpers\_\_iterable_to_array_limit_loose133861582187271089 1
 78E:\BootStrap\design\node_modules\@swc\helpers\src\_assert_this_initialized.mjs133861582188208356 0
@@ -88,19 +90,15 @@
 40E:\BootStrap\design\src\scss\custom.scss133861582207113426 0
 60E:\BootStrap\design\node_modules\@parcel\reporter-tracer\lib133861582084153404 1
 41E:\BootStrap\design\node_modules\lmdb\src133861582203519929 1
-44E:\BootStrap\design\node_modules\detect-libc133861582194457904 1
-72E:\BootStrap\design\node_modules\@parcel\utils\src\relativeBundlePath.js133861582131807038 0
-59E:\BootStrap\design\node_modules\@parcel\markdown-ansi\test133861582082278535 1
-80E:\BootStrap\design\node_modules\posthtml\node_modules\domutils\lib\traversal.js133861582204926082 0
 72E:\BootStrap\design\node_modules\entities\lib\generated\encode-html.d.ts133861582199145417 0
 76E:\BootStrap\design\node_modules\bootstrap\dist\css\bootstrap-reboot.css.map133861582188833296 0
 102E:\BootStrap\design\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.d.ts.map133861582204926082 0
 84E:\BootStrap\design\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c133861582202894974 0
 69E:\BootStrap\design\node_modules\posthtml\node_modules\dom-serializer133861582204769834 1
 101E:\BootStrap\design\node_modules\posthtml\node_modules\dom-serializer\node_modules\entities\readme.md133861582204769834 0
-42E:\BootStrap\design\src\scss\variable.scss133861582207113426 0
+42E:\BootStrap\design\src\scss\variable.scss133863401523495863 0
 41E:\BootStrap\design\node_modules\domutils133861582194926785 1
-36E:\BootStrap\design\src\css\main.css133863229201341542 0
+36E:\BootStrap\design\src\css\main.css133863444778965314 0
 34E:\BootStrap\design\src\js\main.js133861582207113426 0
 70E:\BootStrap\design\node_modules\htmlparser2\lib\esm\WritableStream.js133861582200707489 0
 58E:\BootStrap\design\node_modules\resolve-from\package.json133861582205238559 0
@@ -173,14 +171,6 @@
 88E:\BootStrap\design\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln133861582203051213 0
 90E:\BootStrap\design\node_modules\@parcel\runtime-js\src\helpers\browser\import-polyfill.js133861582085090720 0
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\MZ.js133861582193364449 0
-54E:\BootStrap\design\node_modules\picomatch\lib\scan.js133861582204457370 0
-56E:\BootStrap\design\node_modules\sass\types\compile.d.ts133861582205863505 0
-51E:\BootStrap\design\node_modules\@swc\core\spack.js133861582186490065 0
-72E:\BootStrap\design\node_modules\@parcel\core\src\ParcelConfig.schema.js133861582079466234 0
-51E:\BootStrap\design\node_modules\nullthrows\LICENSE133861582204144888 0
-64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\SK.js133861582193676880 0
-68E:\BootStrap\design\node_modules\type-fest\source\tsconfig-json.d.ts133861582206800943 0
-44E:\BootStrap\design\node_modules\cosmiconfig133861582194457904 1
 51E:\BootStrap\design\node_modules\msgpackr\README.md133861582203676170 0
 49E:\BootStrap\design\node_modules\tslib\tslib.html133861582206644657 0
 90E:\BootStrap\design\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c133861582202738763 0
@@ -188,6 +178,7 @@
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\MU.js133861582193364449 0
 45E:\BootStrap\design\node_modules\caniuse-lite133861582193833112 1
 74E:\BootStrap\design\node_modules\@swc\helpers\cjs\_non_iterable_spread.cjs133861582187739793 0
+42E:\BootStrap\design\src\assets\product.png133863421092157439 0
 57E:\BootStrap\design\node_modules\entities\lib\decode.d.ts133861582195083021 0
 54E:\BootStrap\design\node_modules\safe-buffer\README.md133861582205394787 0
 83E:\BootStrap\design\node_modules\bootstrap\dist\css\bootstrap-utilities.rtl.css.map133861582188989556 0
@@ -197,6 +188,7 @@
 57E:\BootStrap\design\node_modules\semver\functions\diff.js133861582206175806 0
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\CA.js133861582192895695 0
 56E:\BootStrap\design\node_modules\utility-types\README.md133861582206800943 0
+43E:\BootStrap\design\src\assets\Shield 1.svg133863416480000000 0
 92E:\BootStrap\design\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js133861582203519929 0
 68E:\BootStrap\design\node_modules\@parcel\runtime-browser-hmr\LICENSE133861582084153404 0
 66E:\BootStrap\design\node_modules\caniuse-lite\dist\lib\statuses.js133861582193833112 0
@@ -215,6 +207,8 @@
 43E:\BootStrap\design\src\assets\LinkedIn.svg133861582206957181 0
 70E:\BootStrap\design\node_modules\@swc\helpers\src\_sliced_to_array.mjs133861582188520990 0
 68E:\BootStrap\design\node_modules\utility-types\dist\utility-types.js133861582206957181 0
+66E:\BootStrap\design\node_modules\@parcel\packager-raw\package.json133861582083372526 0
+41E:\BootStrap\design\src\assets\ZigZag.png133863422165401145 0
 46E:\BootStrap\design\src\assets\Medium Logo.png133861582206957181 0
 41E:\BootStrap\design\src\assets\Medium.svg133861582206957181 0
 84E:\BootStrap\design\node_modules\@swc\helpers\cjs\_class_apply_descriptor_update.cjs133861582187583557 0
@@ -247,6 +241,13 @@
 42E:\BootStrap\design\src\assets\Twitter.svg133861582207113426 0
 63E:\BootStrap\design\node_modules\@parcel\types-internal\scripts133861582127119103 1
 52E:\BootStrap\design\node_modules\fill-range\index.js133861582199770265 0
+55E:\BootStrap\design\node_modules\domelementtype\LICENSE133861582194457904 0
+53E:\BootStrap\design\node_modules\@swc\core\spack.d.ts133861582186490065 0
+47E:\BootStrap\design\node_modules\@parcel\fs\lib133861582081809825 1
+68E:\BootStrap\design\node_modules\lightningcss-win32-x64-msvc\LICENSE133861582201332423 0
+61E:\BootStrap\design\node_modules\@parcel\transformer-html\lib133861582126494126 1
+42E:\BootStrap\design\src\assets\working.png133863396480000000 0
+75E:\BootStrap\design\node_modules\lmdb\node_modules\node-addon-api\nothing.c133861582203363513 0
 81E:\BootStrap\design\node_modules\@swc\helpers\esm\_initializer_define_property.js133861582188052288 0
 86E:\BootStrap\design\node_modules\@parcel\runtime-js\lib\helpers\browser\html-loader.js133861582084465879 0
 65E:\BootStrap\design\node_modules\term-size\vendor\macos\term-size133861582206488468 0
@@ -319,6 +320,21 @@
 61E:\BootStrap\design\node_modules\chrome-trace-event\README.md133861582193989357 0
 66E:\BootStrap\design\node_modules\@parcel\workers\lib\WorkerFarm.js133861582138837583 0
 42E:\BootStrap\design\node_modules\commander133861582194145594 1
+54E:\BootStrap\design\node_modules\picomatch\lib\scan.js133861582204457370 0
+56E:\BootStrap\design\node_modules\sass\types\compile.d.ts133861582205863505 0
+51E:\BootStrap\design\node_modules\@swc\core\spack.js133861582186490065 0
+72E:\BootStrap\design\node_modules\@parcel\core\src\ParcelConfig.schema.js133861582079466234 0
+51E:\BootStrap\design\node_modules\nullthrows\LICENSE133861582204144888 0
+64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\SK.js133861582193676880 0
+68E:\BootStrap\design\node_modules\type-fest\source\tsconfig-json.d.ts133861582206800943 0
+44E:\BootStrap\design\node_modules\cosmiconfig133861582194457904 1
+44E:\BootStrap\design\node_modules\detect-libc133861582194457904 1
+72E:\BootStrap\design\node_modules\@parcel\utils\src\relativeBundlePath.js133861582131807038 0
+59E:\BootStrap\design\node_modules\@parcel\markdown-ansi\test133861582082278535 1
+80E:\BootStrap\design\node_modules\posthtml\node_modules\domutils\lib\traversal.js133861582204926082 0
+58E:\BootStrap\design\node_modules\bootstrap\scss\_type.scss133861582190083384 0
+47E:\BootStrap\design\node_modules\dom-serializer133861582194457904 1
+79E:\BootStrap\design\node_modules\node-gyp-build-optional-packages\build-test.js133861582204144888 0
 85E:\BootStrap\design\node_modules\@swc\helpers\src\_class_extract_field_descriptor.mjs133861582188364560 0
 70E:\BootStrap\design\node_modules\posthtml\node_modules\htmlparser2\lib133861582205082321 1
 60E:\BootStrap\design\node_modules\lightningcss-win32-x64-msvc133861582202426084 1
@@ -490,7 +506,7 @@
 60E:\BootStrap\design\node_modules\source-map-js\source-map.js133861582206332236 0
 43E:\BootStrap\design\node_modules\micromatch133861582203519929 1
 68E:\BootStrap\design\node_modules\@parcel\watcher-win32-x64\README.md133861582135868320 0
-44E:\BootStrap\design\dist\Medium.76173d6e.svg133863229424795828 0
+44E:\BootStrap\design\dist\Medium.76173d6e.svg133863456612431608 0
 76E:\BootStrap\design\node_modules\@parcel\workers\test\integration\workerfarm133861582143680331 1
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\LS.js133861582193364449 0
 41E:\BootStrap\design\node_modules\msgpackr133861582203988645 1
@@ -660,10 +676,6 @@
 56E:\BootStrap\design\node_modules\@parcel\rust\browser.js133861582085403298 0
 57E:\BootStrap\design\node_modules\weak-lru-cache\README.md133861582206957181 0
 64E:\BootStrap\design\node_modules\weak-lru-cache\rollup.config.js133861582206957181 0
-59E:\BootStrap\design\node_modules\entities\lib\encode.js.map133861582195083021 0
-63E:\BootStrap\design\node_modules\bootstrap\js\dist\offcanvas.js133861582189614672 0
-80E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.19000.1s133861648052204154 0
-71E:\BootStrap\design\node_modules\posthtml\node_modules\domutils\LICENSE133861582204769834 0
 59E:\BootStrap\design\node_modules\node-releases\package.json133861582204144888 0
 61E:\BootStrap\design\node_modules\weak-lru-cache\tests\test.js133861582206957181 0
 59E:\BootStrap\design\node_modules\utility-types\CHANGELOG.md133861582206800943 0
@@ -1048,8 +1060,6 @@
 84E:\BootStrap\design\node_modules\caniuse-lite\data\features\extended-system-fonts.js133861582191489531 0
 57E:\BootStrap\design\node_modules\supports-color\readme.md133861582206488468 0
 91E:\BootStrap\design\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\intro.doc133861582202582500 0
-74E:\BootStrap\design\node_modules\@parcel\packager-html\src\HTMLPackager.js133861582082747251 0
-56E:\BootStrap\design\node_modules\js-yaml\lib\type\set.js133861582201176342 0
 50E:\BootStrap\design\node_modules\srcset\index.d.ts133861582206332236 0
 79E:\BootStrap\design\node_modules\posthtml\node_modules\dom-serializer\README.md133861582204613618 0
 48E:\BootStrap\design\node_modules\srcset\index.js133861582206332236 0
@@ -1105,9 +1115,6 @@
 67E:\BootStrap\design\node_modules\source-map-js\lib\source-node.d.ts133861582206332236 0
 83E:\BootStrap\design\node_modules\caniuse-lite\data\features\js-regexp-lookbehind.js133861582191801825 0
 73E:\BootStrap\design\node_modules\caniuse-lite\data\features\object-fit.js133861582192114490 0
-119E:\BootStrap\design\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js133861582081341160 0
-76E:\BootStrap\design\node_modules\posthtml\node_modules\domutils\package.json133861582204926082 0
-54E:\BootStrap\design\node_modules\lmdb\dependencies\lz4133861582203051213 1
 58E:\BootStrap\design\node_modules\source-map-js\lib\util.js133861582206332236 0
 78E:\BootStrap\design\node_modules\@swc\helpers\src\_iterable_to_array_limit.mjs133861582188520990 0
 61E:\BootStrap\design\node_modules\node-addon-api\noexcept.gypi133861582203988645 0
@@ -1166,10 +1173,6 @@
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\MD.js133861582193364449 0
 63E:\BootStrap\design\node_modules\semver\internal\identifiers.js133861582206175806 0
 60E:\BootStrap\design\node_modules\@parcel\transformer-raw\lib133861582126806805 1
-53E:\BootStrap\design\node_modules\posthtml-render\dist133861582204457370 1
-74E:\BootStrap\design\node_modules\@swc\helpers\cjs\_array_like_to_array.cjs133861582187427317 0
-71E:\BootStrap\design\node_modules\msgpackr\dist\index-no-eval.min.js.map133861582203676170 0
-65E:\BootStrap\design\node_modules\semver\internal\parse-options.js133861582206175806 0
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\NZ.js133861582193520639 0
 63E:\BootStrap\design\node_modules\sass\types\legacy\options.d.ts133861582206019758 0
 63E:\BootStrap\design\node_modules\htmlparser2\lib\esm\index.d.ts133861582200707489 0
@@ -1248,7 +1251,7 @@
 89E:\BootStrap\design\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest.c133861582202738763 0
 108E:\BootStrap\design\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\package.json133861582082591215 0
 70E:\BootStrap\design\node_modules\postcss-value-parser\lib\stringify.js133861582204457370 0
-46E:\BootStrap\design\dist\Telegram.426da378.svg133863229424795828 0
+46E:\BootStrap\design\dist\Telegram.426da378.svg133863456612441598 0
 68E:\BootStrap\design\node_modules\@swc\helpers\_\_non_iterable_spread133861582187271089 1
 65E:\BootStrap\design\node_modules\postcss-value-parser\lib\walk.js133861582204457370 0
 82E:\BootStrap\design\node_modules\@swc\helpers\_\_class_static_private_field_update133861582186958798 1
@@ -1416,12 +1419,13 @@
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\VU.js133861582193833112 0
 61E:\BootStrap\design\node_modules\posthtml\types\posthtml.d.ts133861582205082321 0
 65E:\BootStrap\design\node_modules\ordered-binary\.idea\modules.xml133861582204144888 0
-97E:\BootStrap\design\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.d.ts133861582205082321 0
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\PT.js133861582193520639 0
 73E:\BootStrap\design\node_modules\posthtml\node_modules\domutils\readme.md133861582204926082 0
 60E:\BootStrap\design\node_modules\domutils\lib\esm\feeds.d.ts133861582194614315 0
+97E:\BootStrap\design\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.d.ts133861582205082321 0
 78E:\BootStrap\design\node_modules\posthtml\node_modules\posthtml-parser\license133861582205082321 0
 72E:\BootStrap\design\node_modules\caniuse-lite\data\features\xhtmlsmil.js133861582192739438 0
+53E:\BootStrap\design\dist\working.72cb2968.png.1096.8f133863410531271115 0
 84E:\BootStrap\design\node_modules\@popperjs\core\dist\esm\modifiers\eventListeners.js133861582144149206 0
 68E:\BootStrap\design\node_modules\@parcel\package-manager\src\Pnpm.js133861582082434777 0
 104E:\BootStrap\design\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\index.js133861582082591215 0
@@ -1486,6 +1490,13 @@
 92E:\BootStrap\design\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133861582202738763 0
 80E:\BootStrap\design\node_modules\@popperjs\core\lib\modifiers\computeStyles.d.ts133861582163054803 0
 67E:\BootStrap\design\node_modules\posthtml\node_modules\domutils\lib133861582204926082 1
+59E:\BootStrap\design\node_modules\entities\lib\encode.js.map133861582195083021 0
+63E:\BootStrap\design\node_modules\bootstrap\js\dist\offcanvas.js133861582189614672 0
+80E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.19000.1s133861648052204154 0
+71E:\BootStrap\design\node_modules\posthtml\node_modules\domutils\LICENSE133861582204769834 0
+119E:\BootStrap\design\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js133861582081341160 0
+76E:\BootStrap\design\node_modules\posthtml\node_modules\domutils\package.json133861582204926082 0
+54E:\BootStrap\design\node_modules\lmdb\dependencies\lz4133861582203051213 1
 78E:\BootStrap\design\node_modules\posthtml\node_modules\domutils\lib\feeds.d.ts133861582204769834 0
 76E:\BootStrap\design\node_modules\posthtml\node_modules\domutils\lib\feeds.js133861582204769834 0
 55E:\BootStrap\design\node_modules\msgpackr\dist\index.js133861582203676170 0
@@ -1846,7 +1857,7 @@
 68E:\BootStrap\design\node_modules\msgpackr\dist\index-no-eval.cjs.map133861582203676170 0
 57E:\BootStrap\design\node_modules\@parcel\transformer-json133861582126650393 1
 55E:\BootStrap\design\node_modules\msgpackr\dist\node.cjs133861582203832403 0
-46E:\BootStrap\design\dist\LinkedIn.87719de7.svg133863229424795828 0
+46E:\BootStrap\design\dist\LinkedIn.87719de7.svg133863456612431608 0
 46E:\BootStrap\design\node_modules\clone\LICENSE133861582193989357 0
 59E:\BootStrap\design\node_modules\msgpackr\dist\node.cjs.map133861582203832403 0
 58E:\BootStrap\design\node_modules\@parcel\core\lib\utils.js133861582079310553 0
@@ -1917,12 +1928,6 @@
 79E:\BootStrap\design\node_modules\caniuse-lite\data\features\devicepixelratio.js133861582191333287 0
 58E:\BootStrap\design\node_modules\@parcel\utils\src\svgo.js133861582133525649 0
 80E:\BootStrap\design\node_modules\@swc\helpers\_\_class_private_field_destructure133861582186958798 1
-55E:\BootStrap\design\node_modules\domelementtype\LICENSE133861582194457904 0
-53E:\BootStrap\design\node_modules\@swc\core\spack.d.ts133861582186490065 0
-47E:\BootStrap\design\node_modules\@parcel\fs\lib133861582081809825 1
-68E:\BootStrap\design\node_modules\lightningcss-win32-x64-msvc\LICENSE133861582201332423 0
-61E:\BootStrap\design\node_modules\@parcel\transformer-html\lib133861582126494126 1
-75E:\BootStrap\design\node_modules\lmdb\node_modules\node-addon-api\nothing.c133861582203363513 0
 86E:\BootStrap\design\node_modules\lmdb\node_modules\node-addon-api\package-support.json133861582203363513 0
 69E:\BootStrap\design\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c133861582203051213 0
 78E:\BootStrap\design\node_modules\lmdb\node_modules\node-addon-api\package.json133861582203363513 0
@@ -2107,7 +2112,6 @@
 56E:\BootStrap\design\node_modules\js-yaml\lib\type\map.js133861582201176342 0
 67E:\BootStrap\design\node_modules\caniuse-lite\data\features\xhr2.js133861582192739438 0
 57E:\BootStrap\design\node_modules\js-yaml\lib\type\null.js133861582201176342 0
-78E:\BootStrap\design\node_modules\@parcel\runtime-js\src\helpers\.eslintrc.json133861582084934804 0
 82E:\BootStrap\design\node_modules\caniuse-lite\data\features\css-filter-function.js133861582191020821 0
 69E:\BootStrap\design\node_modules\caniuse-lite\data\features\bigint.js133861582190708334 0
 78E:\BootStrap\design\node_modules\@swc\helpers\cjs\_interop_require_default.cjs133861582187739793 0
@@ -2118,6 +2122,8 @@
 55E:\BootStrap\design\node_modules\is-number\package.json133861582201020102 0
 56E:\BootStrap\design\node_modules\js-yaml\lib\type\seq.js133861582201176342 0
 67E:\BootStrap\design\node_modules\caniuse-lite\data\features\midi.js133861582191958248 0
+74E:\BootStrap\design\node_modules\@parcel\packager-html\src\HTMLPackager.js133861582082747251 0
+56E:\BootStrap\design\node_modules\js-yaml\lib\type\set.js133861582201176342 0
 70E:\BootStrap\design\node_modules\entities\lib\generated\encode-html.js133861582199457903 0
 56E:\BootStrap\design\node_modules\js-yaml\lib\type\str.js133861582201176342 0
 71E:\BootStrap\design\node_modules\caniuse-lite\data\features\template.js133861582192426968 0
@@ -2129,7 +2135,7 @@
 81E:\BootStrap\design\node_modules\caniuse-lite\data\features\element-from-point.js133861582191489531 0
 62E:\BootStrap\design\node_modules\entities\lib\esm\package.json133861582198521042 0
 62E:\BootStrap\design\node_modules\js-yaml\lib\schema\default.js133861582201176342 0
-45E:\BootStrap\design\dist\Frame_7.17294910.png133863229425733259 0
+45E:\BootStrap\design\dist\Frame_7.17294910.png133863456610922468 0
 63E:\BootStrap\design\node_modules\js-yaml\lib\schema\failsafe.js133861582201176342 0
 59E:\BootStrap\design\node_modules\js-yaml\lib\schema\json.js133861582201176342 0
 82E:\BootStrap\design\node_modules\htmlnano\lib\modules\normalizeAttributeValues.mjs133861582200395006 0
@@ -2282,6 +2288,7 @@
 77E:\BootStrap\design\node_modules\@parcel\source-map\parcel_sourcemap_node\src133861582124932510 1
 79E:\BootStrap\design\node_modules\@swc\helpers\esm\_object_without_properties.js133861582188052288 0
 76E:\BootStrap\design\node_modules\htmlnano\lib\modules\collapseWhitespace.cjs133861582200238737 0
+46E:\BootStrap\design\dist\Shield 1.ccb7576b.svg133863456612461595 0
 70E:\BootStrap\design\node_modules\@parcel\source-map\dist\utils.js.flow133861582121026536 0
 76E:\BootStrap\design\node_modules\htmlnano\lib\modules\collapseWhitespace.mjs133861582200238737 0
 84E:\BootStrap\design\node_modules\@swc\helpers\esm\_class_private_field_loose_base.js133861582187896034 0
@@ -2310,6 +2317,7 @@
 108E:\BootStrap\design\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm.js133861582124932510 0
 79E:\BootStrap\design\node_modules\@parcel\core\test\fixtures\application-targets133861582080872431 1
 79E:\BootStrap\design\node_modules\caniuse-lite\data\features\array-find-index.js133861582190552098 0
+45E:\BootStrap\design\dist\working.72cb2968.png133863456611222285 0
 67E:\BootStrap\design\node_modules\htmlnano\lib\modules\minifySvg.mjs133861582200395006 0
 68E:\BootStrap\design\node_modules\htmlnano\lib\modules\minifyUrls.mjs133861582200395006 0
 60E:\BootStrap\design\node_modules\@parcel\events\src\index.js133861582081653585 0
@@ -2345,7 +2353,7 @@
 65E:\BootStrap\design\node_modules\htmlnano\docs\versioned_sidebars133861582200238737 1
 51E:\BootStrap\design\node_modules\@parcel\source-map133861582124932510 1
 60E:\BootStrap\design\node_modules\htmlnano\docs\versions.json133861582200238737 0
-42E:\BootStrap\design\dist\main.34df27b5.css133863229425733259 0
+42E:\BootStrap\design\dist\main.34df27b5.css133863456610972437 0
 64E:\BootStrap\design\node_modules\caniuse-lite\data\regions\EC.js133861582193051767 0
 75E:\BootStrap\design\node_modules\htmlnano\docs\versioned_docs\version-1.1.1133861582200238737 1
 83E:\BootStrap\design\node_modules\caniuse-lite\data\features\css-case-insensitive.js133861582190864400 0
@@ -2455,7 +2463,7 @@
 78E:\BootStrap\design\node_modules\caniuse-lite\data\features\wasm-tail-calls.js133861582192583207 0
 61E:\BootStrap\design\node_modules\entities\lib\esm\encode.d.ts133861582195707904 0
 73E:\BootStrap\design\node_modules\caniuse-lite\data\features\array-find.js133861582190552098 0
-42E:\BootStrap\design\dist\Icon.238e7506.png133863229425577045 0
+42E:\BootStrap\design\dist\Icon.238e7506.png133863456610902473 0
 65E:\BootStrap\design\node_modules\entities\lib\esm\encode.d.ts.map133861582195707904 0
 75E:\BootStrap\design\node_modules\@popperjs\core\lib\dom-utils\instanceOf.js133861582155711593 0
 78E:\BootStrap\design\node_modules\@swc\helpers\_\_class_call_check\package.json133861582186802562 0
@@ -4217,9 +4225,6 @@
 56E:\BootStrap\design\node_modules\@parcel\bundler-default133861582077122647 1
 46E:\BootStrap\design\node_modules\@parcel\cache133861582077279258 1
 47E:\BootStrap\design\node_modules\@parcel\events133861582081653585 1
-67E:\BootStrap\design\node_modules\@parcel\core\lib\Transformation.js133861582078528799 0
-70E:\BootStrap\design\node_modules\@parcel\runtime-js\lib\helpers\worker133861582084934804 1
-77E:\BootStrap\design\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js133861582085090720 0
 54E:\BootStrap\design\node_modules\@parcel\feature-flags133861582081653585 1
 46E:\BootStrap\design\node_modules\@parcel\graph133861582082122866 1
 54E:\BootStrap\design\node_modules\@parcel\namer-default133861582082278535 1
@@ -4251,8 +4256,8 @@
 82E:\BootStrap\design\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow133861582121026536 0
 95E:\BootStrap\design\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json133861582081028567 0
 84E:\BootStrap\design\node_modules\@parcel\workers\test\integration\workerfarm\echo.js133861582143525144 0
-87E:\BootStrap\design\node_modules\@parcel\workers\test\integration\workerfarm\logging.js133861582143680331 0
 71E:\BootStrap\design\node_modules\@parcel\runtime-js\src\helpers\browser133861582085090720 1
+87E:\BootStrap\design\node_modules\@parcel\workers\test\integration\workerfarm\logging.js133861582143680331 0
 104E:\BootStrap\design\node_modules\@parcel\workers\test\integration\workerfarm\resolve-shared-reference.js133861582143680331 0
 63E:\BootStrap\design\node_modules\@parcel\workers\src\backend.js133861582141337243 0
 78E:\BootStrap\design\node_modules\@parcel\transformer-css\src\CSSTransformer.js133861582126494126 0
@@ -4426,7 +4431,11 @@
 66E:\BootStrap\design\node_modules\@parcel\runtime-react-refresh\src133861582085247278 1
 68E:\BootStrap\design\node_modules\@parcel\runtime-js\src\JSRuntime.js133861582084934804 0
 72E:\BootStrap\design\node_modules\@parcel\runtime-js\src\helpers\.babelrc133861582084934804 0
+78E:\BootStrap\design\node_modules\@parcel\runtime-js\src\helpers\.eslintrc.json133861582084934804 0
 82E:\BootStrap\design\node_modules\@parcel\runtime-js\src\helpers\bundle-manifest.js133861582085090720 0
+67E:\BootStrap\design\node_modules\@parcel\core\lib\Transformation.js133861582078528799 0
+70E:\BootStrap\design\node_modules\@parcel\runtime-js\lib\helpers\worker133861582084934804 1
+77E:\BootStrap\design\node_modules\@parcel\runtime-js\src\helpers\bundle-url.js133861582085090720 0
 78E:\BootStrap\design\node_modules\@parcel\runtime-js\src\helpers\cacheLoader.js133861582085247278 0
 68E:\BootStrap\design\node_modules\@parcel\runtime-js\src\helpers\node133861582085247278 1
 70E:\BootStrap\design\node_modules\@parcel\runtime-js\src\helpers\worker133861582085247278 1
@@ -4465,7 +4474,7 @@
 87E:\BootStrap\design\node_modules\@parcel\runtime-browser-hmr\src\loaders\.eslintrc.json133861582084310008 0
 87E:\BootStrap\design\node_modules\@parcel\runtime-browser-hmr\lib\loaders\hmr-runtime.js133861582084153404 0
 65E:\BootStrap\design\node_modules\@parcel\resolver-default\LICENSE133861582084153404 0
-44E:\BootStrap\design\dist\Portal.272eb300.svg133863229424795828 0
+44E:\BootStrap\design\dist\Portal.272eb300.svg133863456612431608 0
 61E:\BootStrap\design\node_modules\@parcel\resolver-default\src133861582084153404 1
 80E:\BootStrap\design\node_modules\@parcel\resolver-default\lib\DefaultResolver.js133861582084153404 0
 60E:\BootStrap\design\node_modules\@parcel\reporter-tracer\src133861582084153404 1
@@ -4518,7 +4527,6 @@
 72E:\BootStrap\design\node_modules\@parcel\packager-svg\lib\SVGPackager.js133861582083528346 0
 57E:\BootStrap\design\node_modules\@parcel\packager-raw\lib133861582083372526 1
 61E:\BootStrap\design\node_modules\@parcel\packager-raw\LICENSE133861582083372526 0
-66E:\BootStrap\design\node_modules\@parcel\packager-raw\package.json133861582083372526 0
 57E:\BootStrap\design\node_modules\@parcel\packager-raw\src133861582083372526 1
 72E:\BootStrap\design\node_modules\@parcel\packager-raw\src\RawPackager.js133861582083372526 0
 72E:\BootStrap\design\node_modules\@parcel\packager-raw\lib\RawPackager.js133861582083372526 0
@@ -4891,43 +4899,48 @@
 48E:\BootStrap\design\node_modules\.bin\semver.ps1133861582076185583 0
 60E:\BootStrap\design\node_modules\.bin\update-browserslist-db133861582076185583 0
 64E:\BootStrap\design\node_modules\.bin\update-browserslist-db.cmd133861582076185583 0
-71E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png133863229426045744 0
+71E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png133863456611192310 0
 79E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.10392.r133861582074779109 0
+79E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.1096.8e133863410531271115 0
 80E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.11188.1l133861582074935342 0
 80E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.11572.5u133861582074935342 0
 80E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.12836.3c133861582075091570 0
 79E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.13028.w133863140493702437 0
 80E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.13436.3v133862551807339617 0
 80E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.15096.1i133862493122724883 0
+80E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.15108.vd133863391947351699 0
+79E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.18352.f133863411862399936 0
 80E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.18356.7h133861582075091570 0
 79E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.3552.30133861582075247815 0
 79E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.4144.1z133861582075247815 0
 79E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.6776.bm133862483626348024 0
 79E:\BootStrap\design\dist\colorful-vintage-collage-design 1.7896c020.png.8028.59133861582075247815 0
-42E:\BootStrap\design\dist\Dawn.e88e500b.svg133863229424795828 0
-60E:\BootStrap\design\dist\down-arrow-svgrepo-com.7058b732.svg133863229424795828 0
-43E:\BootStrap\design\dist\Figma.5d77a384.svg133863229424795828 0
+42E:\BootStrap\design\dist\Dawn.e88e500b.svg133863456612441598 0
+60E:\BootStrap\design\dist\down-arrow-svgrepo-com.7058b732.svg133863456612441598 0
+43E:\BootStrap\design\dist\Figma.5d77a384.svg133863456612431608 0
 43E:\BootStrap\design\dist\Figma.7f02922a.png133861582074779109 0
 43E:\BootStrap\design\dist\Graph.3710afed.png133861650625664939 0
 43E:\BootStrap\design\dist\index.58a7e6fb.css133861582075404058 0
 47E:\BootStrap\design\dist\index.58a7e6fb.css.map133861582075404058 0
 35E:\BootStrap\design\dist\index.html133861582075404058 0
-47E:\BootStrap\design\dist\Instagram.0284c627.svg133863229424795828 0
+47E:\BootStrap\design\dist\Instagram.0284c627.svg133863456612441598 0
 47E:\BootStrap\design\dist\instagram.e5f31372.png133861582075404058 0
-41E:\BootStrap\design\dist\main.18dbc454.js133863229425889500 0
+41E:\BootStrap\design\dist\main.18dbc454.js133863456612461595 0
 50E:\BootStrap\design\dist\main.18dbc454.js.19592.3j133862528077543895 0
-45E:\BootStrap\design\dist\main.18dbc454.js.map133863229426045744 0
+45E:\BootStrap\design\dist\main.18dbc454.js.map133863456612631489 0
 54E:\BootStrap\design\dist\main.18dbc454.js.map.12836.3h133861582075560281 0
 52E:\BootStrap\design\dist\main.18dbc454.js.map.2832.t133861582075560281 0
 53E:\BootStrap\design\dist\main.18dbc454.js.map.3552.32133861582075560281 0
 53E:\BootStrap\design\dist\main.18dbc454.js.map.4236.1e133861582075716524 0
-46E:\BootStrap\design\dist\main.34df27b5.css.map133863229426045744 0
-42E:\BootStrap\design\dist\main.58a7e6fb.css133863229425733259 0
-46E:\BootStrap\design\dist\main.58a7e6fb.css.map133863229426045744 0
+46E:\BootStrap\design\dist\main.34df27b5.css.map133863456611062385 0
+42E:\BootStrap\design\dist\main.58a7e6fb.css133863456612461595 0
+46E:\BootStrap\design\dist\main.58a7e6fb.css.map133863456612651477 0
 55E:\BootStrap\design\dist\main.58a7e6fb.css.map.12836.3g133861582075872744 0
 54E:\BootStrap\design\dist\main.58a7e6fb.css.map.4644.2i133861582075872744 0
 54E:\BootStrap\design\dist\main.58a7e6fb.css.map.8028.5d133861582075872744 0
 41E:\BootStrap\design\dist\main.8d811852.js133861582075872744 0
 45E:\BootStrap\design\dist\main.8d811852.js.map133861582075872744 0
-34E:\BootStrap\design\dist\main.html133863229425889500 0
-45E:\BootStrap\design\dist\Twitter.361ad1ad.svg133863229424795828 0
+34E:\BootStrap\design\dist\main.html133863456612461595 0
+44E:\BootStrap\design\dist\shield.087db0bf.svg133863420466786556 0
+45E:\BootStrap\design\dist\Twitter.361ad1ad.svg133863456612431608 0
+53E:\BootStrap\design\dist\working.72cb2968.png.18352.g133863411862479544 0
