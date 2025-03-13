@@ -1,0 +1,57 @@
+.start-30 {
+     left: 20%;
+}
+
+.gap-6 {
+     gap: 3.5rem;
+     height: 500px;
+}
+
+.occation {
+     font-size: 60px;
+}
+
+.card {
+     color: #C8FEC7;
+}
+
+.collapse-nav {
+     background: black;
+}
+
+::-webkit-scrollbar {
+     display: none;
+}
+
+.circle {
+     position: relative;
+     width: 150px;
+     height: 150px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.circle-text {
+     position: relative;
+     z-index: 2;
+}
+
+.circle::before {
+     content: "";
+     background-color: #000;
+     border-radius: 50%;
+     width: 120px;
+     height: 120px;
+     position: absolute;
+     z-index: 1;
+}
+
+.circle::after {
+     position: absolute;
+     content: "";
+     width: 100%;
+     height: 100%;
+     border-radius: 50%;
+     background-image: conic-gradient(from 235deg, #FA709A 5%, #FEE140 50%, #FEE140 66%, #FA709A 94%, transparent 90%);
+}
