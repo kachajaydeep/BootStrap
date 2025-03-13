@@ -1,0 +1,58 @@
+.start-30 {
+  left: 20%;
+}
+
+.gap-6 {
+  gap: 3.5rem;
+  height: 500px;
+}
+
+.occation {
+  font-size: 60px;
+}
+
+.card {
+  color: #c8fec7;
+}
+
+.collapse-nav {
+  background: #000;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.circle {
+  justify-content: center;
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  display: flex;
+  position: relative;
+}
+
+.circle-text {
+  z-index: 2;
+  position: relative;
+}
+
+.circle:before {
+  content: "";
+  z-index: 1;
+  background-color: #000;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  position: absolute;
+}
+
+.circle:after {
+  content: "";
+  background-image: conic-gradient(from 235deg, #fa709a 5%, #fee140 50% 66%, #fa709a 94%, #0000 90%);
+  border-radius: 50%;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+/*# sourceMappingURL=main.34df27b5.css.map */
