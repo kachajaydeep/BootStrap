@@ -95,3 +95,17 @@
 .working-text{
      width: 58vw;
 }
+p{
+    margin-bottom: 0;
+}
+.conclusion{
+     height: 150px;
+     background-color: #A87FF3;
+     top: 480px;
+}
+.colombian{
+     color: #FF0000;
+}
+.baby_Img{
+     width: 100%;
+}
