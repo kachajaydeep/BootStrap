@@ -5,6 +5,8 @@ $navbar-light-hover-color:#fff;
 $navbar-light-color:#fff;
 $nav-link-color:#fff;
 $navbar-light-icon-color:#fff;
+$btn-padding-y-sm:0;
+$btn-padding-x-sm:0;
 
 @import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
 
@@ -26,5 +28,9 @@ $navbar-light-icon-color:#fff;
 .down{
      @include text-gradient-x(#FA709A,#FEE140);
 }
-
-
+.learning{
+     @include text-gradient-x(#84FAB0, #8FD3F4);
+}
+.cristian{
+     @include text-gradient-x(#FA709A,#65C8FF);
+}
