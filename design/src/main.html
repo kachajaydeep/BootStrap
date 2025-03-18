@@ -15,35 +15,38 @@
 <body>
      <div class="container">
           <nav class="navbar navbar-expand-md text-light mt-3">
-               <div class="container collapse-nav position-fixed top-0 z-1">
+               <div class="container collapse-nav  z-1">
                     <a class="navbar-brand fw-bold text-light" href="#">
                          <img src="./assets/Icon.png" alt="">
                          tian
                     </a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                         data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
-                         aria-label="Toggle navigation">
-                         <span class="navbar-toggler-icon"></span>
-                    </button>
-                    <div class="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
-                         <ul class="navbar-nav m-auto align-items-center">
-                              <li class="nav-item">
-                                   <a class="nav-link active" aria-current="page" href="#">Home</a>
-                              </li>
-                              <li class="nav-item">
-                                   <a class="nav-link" href="#">Portfolio</a>
-                              </li>
-                              <li class="nav-item">
-                                   <a class="nav-link" href="#">Skills</a>
-                              </li>
-                              <li class="nav-item">
-                                   <a class="nav-link" href="#">About Me</a>
-                              </li>
-                         </ul>
-                         <ul class="nav justify-content-center">
-                              <button class="btn btn-primary">Contect Me</button>
-                         </ul>
-                    </div>
+                    <label>
+                         <input type="checkbox" class="d-none">
+                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                              data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown"
+                              aria-expanded="false" aria-label="Toggle navigation">
+                              <span class="navbar-toggler-icon"></span>
+                         </button>
+                         <div class="collapse navbar-collapse fix justify-content-center" id="navbarNavDropdown">
+                              <ul class="navbar-nav m-auto align-items-center">
+                                   <li class="nav-item">
+                                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                                   </li>
+                                   <li class="nav-item">
+                                        <a class="nav-link" href="#">Portfolio</a>
+                                   </li>
+                                   <li class="nav-item">
+                                        <a class="nav-link" href="#">Skills</a>
+                                   </li>
+                                   <li class="nav-item">
+                                        <a class="nav-link" href="#">About Me</a>
+                                   </li>
+                              </ul>
+                              <ul class="nav justify-content-center">
+                                   <button class="btn btn-primary">Contect Me</button>
+                              </ul>
+                         </div>
+                    </label>
                </div>
           </nav>
      </div>
@@ -477,8 +480,8 @@
      </div>
 
      <div class="container text-white ms-auto mt-5">
-          <div class="top row row-cols-md-2 row-cols-1">
-               <div class="left-side d-flex flex-column justify-content-around order-1 order-md-2">
+          <div class="top row row-cols-md-2 row-cols-1 mt-3">
+               <div class="left-side d-flex flex-column justify-content-around">
                     <h1 class="display-3 fw-bolder">ABOUT ME <img src="./assets/ZigZag.png" alt="ZigZag"></h1>
                     <h3 class="font mt-5">
                          I am a <p class="down">Product Designer</p> and Frontend Developer, I fully understand the
@@ -490,18 +493,18 @@
                     </h3>
                </div>
 
-               <div class="right-side order-2 order-md-1">
+               <div class="right-side mt-5 mt-md-0">
                     <img class="g-0 baby_Img" src="./assets/baby.png" alt="baby_Img">
                </div>
           </div>
 
-          <div class="center row row-cols-md-2 row-cols-1 align-items-center">
-               <div class="left-side  order-2 order-md-1">
+          <div class="center row row-cols-md-2 row-cols-1 align-items-center mt-3">
+               <div class="left-side mt-5 mt-md-0 order-2 order-md-1">
                     <img class="g-0 baby_Img" src="./assets/product.png" alt="baby_Img">
                </div>
 
-               <div class="right-side  order-1 order-md-2">
-                    <h3 class="font text-end">
+               <div class="right-side order-1 order-md-2">
+                    <h3 class="font text-start text-md-end">
                          I am passionate about <p class="learning">never stop learning</p> , I am constantly training
                          and learning about new and
                          changing <p class="learning">technology</p> trends that way I bring an updated opinion of the
@@ -510,9 +513,9 @@
                </div>
           </div>
 
-          <div class="bottom row row-cols-md-2 row-cols-1 align-items-center">
-               <div class="left-side order-1 order-md-2">
-                    <h3 class="font">
+          <div class="bottom row row-cols-md-2 row-cols-1 align-items-center mt-3">
+               <div class="left-side">
+                    <h3 class="font p-0 p-md-3">
                          My full name is <p class="cristian">Cristian David Muñoz Camayo</p> and more than what I said
                          before I am a dreamer, I
                          am proudly <p class="colombian">Colombian</p> and in me you will find a human being with the
@@ -521,9 +524,25 @@
                     </h3>
                </div>
 
-               <div class="right-side  order-2 order-md-1">
-                    <img class="g-0 baby_Img" src="./assets/light.png" alt="baby_Img">
+               <div class="right-side mt-5 mt-md-0">
+                    <img class="g-0" src="./assets/light.png" alt="baby_Img" height="369px" width="100%">
                </div>
+          </div>
+
+          <div class="row row-cols-3 footer rounded-5 text-white ms-auto me-auto">
+               <div class="left">
+                    <img class="webkit-img" src="./assets/wepik-photo-mode-2022926-13587.png"
+                         alt="wepik-photo-mode-2022926-13587">
+               </div>
+               <span class="center font-sm align-middle">
+                    Thanks for visit my website
+                    If you have any questions you can write me to any of my social networks, I am sure I will
+                    answer you.s
+               </span>
+               <div class="right position-relative">
+                    <img src="./assets/Frame_35.png" class="frame position-absolute top-0 end-0" alt="Frame_35" >
+               </div>
+
           </div>
      </div>
 
