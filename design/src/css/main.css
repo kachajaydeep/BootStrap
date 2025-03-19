@@ -18,11 +18,13 @@
 .font {
      font-weight: 900;
 }
-
 .collapse-nav {
      background: black;
 }
-
+.collapse-footer{
+     height: 150px;
+     background-color: #292929;
+}
 ::-webkit-scrollbar {
      display: none;
 }
@@ -133,6 +135,9 @@ p {
           top: 64px;
           left: 0;
      }
+     .footer-font{
+          font-size: 7px;
+     }
 }
 
 .footer {
@@ -140,9 +145,11 @@ p {
      background-color: #a87ff3;
      width: 100%;
      height: calc(100vh - 63vh);
-     margin-top: 220px;
+     margin-top: 100px;
 }
-
+.footer-padding{
+     padding-top: 5rem;
+}
 .webkit-img {
      width: 16vw;
      height: 55vh;
